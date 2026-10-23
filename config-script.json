@@ -1,0 +1,4 @@
+{
+  "vfs": "vfs.csv",
+  "script": "scripts/stage3.sh"
+}

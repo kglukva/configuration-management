@@ -1,0 +1,7 @@
+path,type,content
+/,dir,
+motd,file,Welcome to the virtual shell!
+docs,dir,
+docs/readme.txt,file,This is a virtual file.
+docs/notes.txt,file,First line\nSecond line\nThird line
+empty,dir,

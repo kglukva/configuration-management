@@ -1,4 +1,4 @@
 #!/bin/sh
-
-python3 src/main.py
-
+set -eu
+cd "$(dirname "$0")"
+exec python3 src/main.py "$@"
